@@ -2,4 +2,4 @@
 
 ## Requirements
 
-[*] https://github.com/nodemcu/nodemcu-flasher
+[NodeMCU Flasher] (https://github.com/nodemcu/nodemcu-flasher)
